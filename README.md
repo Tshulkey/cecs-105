@@ -1,6 +1,4 @@
 # cecs-105
-CECS 105 Workshop
+CECS 105 Workshop Test file
 
-I added something
-I'm hungry
-I want some food
+Testing by adding something
